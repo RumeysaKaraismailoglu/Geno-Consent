@@ -6,7 +6,7 @@ This repository contains the smart contracts and benchmarking test suites for th
 
 * `src/`: Contains the core smart contracts.
     * `GenoConsent.sol`: The proposed $O(1)$ double-mapping architecture for zero-gas verification and consent management.
-    * `FileStorage.sol`: The baseline array-based model used for comparative performance analysis (adapted from Soundararajan et al., 2025).
+    * `FileStorage.sol`: The baseline array-based model used for comparative performance analysis (adapted from [Soundararajan et al., 2025](https://doi.org/10.1101/2025.11.01.686038)).
 * `test/`: Contains the Foundry benchmarking scripts.
     * `BenchmarkTest.sol`: Measures gas consumption, execution latency (ms), and system throughput (TPS).
 
