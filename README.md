@@ -36,7 +36,7 @@ To replicate the empirical benchmarking results presented in the paper, follow t
    forge test --match-test test_Throughput -vvv
 
 ## Authors
-* **Rümeysa Karaismailoğlu** - Istanbul University, Institute of Graduate Studies in Science, Department of Informatics
+* **Rümeysa Karaismailoğlu** - Istanbul University, Graduate School of Sciences, Department of Informatics
 * **Emre Akadal** - Istanbul University, Faculty of Economics, Department of Management Information Systems
 * ## How to Cite
 
