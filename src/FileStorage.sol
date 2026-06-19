@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+/**
+ * @dev Baseline model adapted for benchmarking purposes. 
+ * This contract reflects the array-based on-chain storage methodologies 
+ * discussed in: Soundararajan J., et al. (2025). "Privacy-preserving genomic 
+ * data sharing via hybrid AES/ECC and blockchain-based dynamic consent." 
+ */
+
+//
 contract FileStorage {
     struct File {
         string encryptedIpfsHash;
