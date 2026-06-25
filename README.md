@@ -41,7 +41,7 @@ To replicate the empirical benchmarking results presented in the paper, follow t
 * ## How to Cite
 
 If you use this architecture or the benchmarking test suite in your research, please cite our paper:
-> Karaismailoğlu, R., & Akadal, E. (2026). Geno-Consent: A Resource-Efficient Blockchain Architecture for Dynamic Consent Management in Genomic Data Sharing. *Journal of Medical Systems* (Manuscript submitted for publication).
+> Karaismailoğlu, R., & Akadal, E. (2026). Geno-Consent: A Resource-Efficient Blockchain Architecture for Dynamic Consent Management in Genomic Data Sharing. *Health and Technology* (Manuscript submitted for publication).
 
 > ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
